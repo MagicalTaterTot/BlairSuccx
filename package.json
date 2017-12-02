@@ -1,0 +1,29 @@
+{
+  "name": "learncode",
+  "version": "1.0.0",
+  "description": "goettsch",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicalTaterTot/LearnCode.git"
+  },
+  "author": "Jason & Rithvik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagicalTaterTot/LearnCode/issues"
+  },
+  "homepage": "https://github.com/MagicalTaterTot/LearnCode#readme"
+}
